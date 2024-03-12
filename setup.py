@@ -17,4 +17,6 @@ install_requires=[
           'matplotlib',
       ],
 python_requires='>=3.8',
+long_description= open("README.md").read(),
+long_description_content_type = "text/markdown"
 )
