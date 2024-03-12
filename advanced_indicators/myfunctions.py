@@ -114,7 +114,7 @@ if __name__ == "__myfunctions__" :
         return data 
 
     def plot_stock_with_rvi(data):
-    #-- ensuring that all column names lowercase
+        #-- ensuring that all column names lowercase
         data.columns = map(str.lower, data.columns)
         # Plotting
         fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(25, 10), gridspec_kw={'height_ratios': [2, 1]})
@@ -141,7 +141,7 @@ if __name__ == "__myfunctions__" :
     #------------------------- DeMarker Indicator -------------------------
 
     def demarker_indc(data):
-    #-- ensuring that all column names lowercase
+        #-- ensuring that all column names lowercase
         data.columns = map(str.lower, data.columns)
 
         period = 9
