@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: advTradingIndicators
+Version: 0.1.0
+Summary: Not your usual trading indicators, use with in combination with other indicator, this is not financial advice.
+Author: Houssam Zak
+Author-email: houssamzak@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+License-File: LICENSE
+License-File: LICENSE.txt

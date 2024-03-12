@@ -1,0 +1,12 @@
+LICENSE
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+advTradingIndicators.egg-info/PKG-INFO
+advTradingIndicators.egg-info/SOURCES.txt
+advTradingIndicators.egg-info/dependency_links.txt
+advTradingIndicators.egg-info/requires.txt
+advTradingIndicators.egg-info/top_level.txt
+advanced_indicators/__init__.py
+advanced_indicators/myfunctions.py

@@ -4,8 +4,6 @@ Powerful trading indicators functions to generate indicators and/or signals on y
 Each indicator comes with a function to add indicator and signals to a dataframe along with
 a plotting function to visualize Buy-Long, Sell-Short entries on price chart.
 
-
-
 Relative Vigor Index - RVI:
 - functions:    rvi_signals & plot_stock_with_rvi
 - have a ready dataframe with at least a Close or price column 
